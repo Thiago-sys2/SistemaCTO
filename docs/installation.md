@@ -28,7 +28,7 @@ Este documento descreve **passo a passo** como instalar, configurar e executar o
 Primeiro, clone o repositório do projeto para sua máquina local:
 
 ```
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/Thiago-sys2/SistemaCTO
 ```
 
 ---
